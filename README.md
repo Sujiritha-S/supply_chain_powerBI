@@ -4,9 +4,13 @@ An interactive Power BI report analyzing shipment efficiency, supplier quality, 
 
 ## Dashboard Preview  
 <img width="1361" height="763" alt="dashboard_preview1" src="https://github.com/user-attachments/assets/e24cdaee-5e1c-4357-926e-32111737fd74" />
+
 <img width="1353" height="772" alt="dashboard_preview2" src="https://github.com/user-attachments/assets/457289ef-dbac-4223-a2b2-ad61d6119da1" />
+
 <img width="1358" height="759" alt="dashboard_preview3" src="https://github.com/user-attachments/assets/cd37422b-2091-4d91-bfe5-2eabd5a73ba0" />
+
 <img width="1352" height="763" alt="dashboard_preview4" src="https://github.com/user-attachments/assets/bfdbfa57-b6b3-421b-9ca7-fc9706d39a66" />
+
 <img width="1358" height="759" alt="dashboard_preview5" src="https://github.com/user-attachments/assets/64d1e675-21cd-4be6-abe9-a717b01a20f4" />
 
 ## Files Included  
